@@ -1,0 +1,24 @@
+.hs-content {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  color: var(--css-white);
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.hs-img-frame {
+  width: 500px;
+  height: 500px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+}
+
+.hs-img {
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: multiply;
+}
